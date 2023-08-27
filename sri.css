@@ -23,8 +23,8 @@
   .frame .overlap {
     position: absolute;
     width: 888px;
-    height: 111px;
-    top: 196px;
+    height: 107px;
+    top: 200px;
     left: 244px;
   }
   
@@ -43,9 +43,9 @@
     line-height: normal;
   }
   
-  .frame .element-sri-aurobindo {
+  .frame .canal-street-near-p {
     position: absolute;
-    top: 74px;
+    top: 70px;
     left: 0;
     font-family: "Sans Serif Collection-Regular", Helvetica;
     font-weight: 400;
@@ -99,15 +99,15 @@
   
   .frame .overlap-2 {
     position: absolute;
-    width: 410px;
-    height: 215px;
-    top: 692px;
+    width: 404px;
+    height: 176px;
+    top: 731px;
     left: 244px;
   }
   
-  .frame .fabexpress-apollo {
+  .frame .banyan-tree-express {
     position: absolute;
-    top: 39px;
+    top: 0;
     left: 0;
     -webkit-text-stroke: 0.3px #000000;
     font-family: "Scope One-Regular", Helvetica;
@@ -119,13 +119,21 @@
   }
   
   .frame .rectangle {
-    width: 409px;
+    width: 403px;
     height: 175px;
-    top: 40px;
+    top: 1px;
     left: 1px;
     position: absolute;
     background-color: #d9d9d9;
     mix-blend-mode: soft-light;
+  }
+  
+  .frame .overlap-3 {
+    position: absolute;
+    width: 125px;
+    height: 37px;
+    top: 692px;
+    left: 244px;
   }
   
   .frame .text-wrapper-3 {
@@ -144,7 +152,7 @@
   
   .frame .rectangle-2 {
     width: 124px;
-    height: 40px;
+    height: 37px;
     top: 0;
     left: 1px;
     position: absolute;
@@ -152,17 +160,17 @@
     mix-blend-mode: soft-light;
   }
   
-  .frame .overlap-3 {
+  .frame .overlap-4 {
     position: absolute;
     width: 479px;
-    height: 215px;
+    height: 194px;
     top: 692px;
     left: 820px;
   }
   
   .frame .rectangle-3 {
     width: 182px;
-    height: 38px;
+    height: 37px;
     top: 0;
     left: 0;
     position: absolute;
@@ -170,7 +178,7 @@
     mix-blend-mode: soft-light;
   }
   
-  .frame .jeewan-jyoti-lohiya {
+  .frame .m-s-chanda-pharmacy {
     position: absolute;
     width: 479px;
     top: 37px;
@@ -186,29 +194,29 @@
   
   .frame .rectangle-4 {
     width: 479px;
-    height: 177px;
-    top: 38px;
+    height: 158px;
+    top: 36px;
     left: 0;
     position: absolute;
     background-color: #d9d9d9;
     mix-blend-mode: soft-light;
   }
   
-  .frame .element-tsp {
+  .frame .sree-bhumi-sporting {
     position: absolute;
-    width: 354px;
-    height: 158px;
-    top: 312px;
-    left: 248px;
+    width: 360px;
+    height: 154px;
+    top: 316px;
+    left: 259px;
     object-fit: cover;
   }
   
-  .frame .hatibagan-sarbojanin {
+  .frame .IMG {
     position: absolute;
-    width: 371px;
-    height: 158px;
-    top: 315px;
-    left: 706px;
+    width: 365px;
+    height: 149px;
+    top: 316px;
+    left: 741px;
     object-fit: cover;
   }
   
@@ -216,7 +224,7 @@
     position: absolute;
     width: 178px;
     height: 55px;
-    top: 998px;
+    top: 1006px;
     left: 1121px;
     background-color: #c89651;
     border-radius: 40px;
@@ -238,36 +246,3 @@
     letter-spacing: 0;
     line-height: 25px;
   }
-  .body{
-    margin: auto;
-  }
-  *{
-    margin: 0px;
-    padding: 0px;
-  }
-  /* .back{
-    position: absolute;
-    width: 97px;
-    top: 12px;
-    left: 38px;
-    -webkit-text-stroke: 1px #000000;
-    font-family: "Short Stack-Regular", Helvetica;
-    font-weight: 400;
-    color: #562f10;
-    font-size: 32px;
-    letter-spacing: 0;
-    line-height: 25px;
-  }
-.back:hover{
-    position: absolute;
-    width: 97px;
-    top: 12px;
-    left: 38px;
-    -webkit-text-stroke: 1px #000000;
-    font-family: "Short Stack-Regular", Helvetica;
-    font-weight: 400;
-    color: #4aff1d;
-    font-size: 32px;
-    letter-spacing: 0;
-    line-height: 25px;
-} */
