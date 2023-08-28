@@ -35,3 +35,11 @@ What problem does the project solve?????
   - Now, you will see a map consisting of all the pujas in that location, select a pandal to get an overview of the current year's puja theme and you can choose accordingly.
   - Then you will be able to choose which pandals you want to visit and we will show you the routemap accordingly.
   - If you are a committee representative, you get to register the details of your puja committee and your theme which you can update as required.
+
+
+TEAM NAME: UNICODERS
+CONTRIBUTORS:
+Sanjana Banerjee [Team Lead]
+Sagnic Ghosh
+Ranajit Dey
+Samadrita Pan
