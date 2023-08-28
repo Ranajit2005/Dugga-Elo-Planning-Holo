@@ -1,0 +1,146 @@
+.frame {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .overlap-wrapper {
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    background: linear-gradient(
+      180deg,
+      rgb(172.32, 138.15, 86.88) 0%,
+      rgb(188.26, 172.57, 149.04) 34.99%,
+      rgb(188, 172, 147) 52.36%,
+      rgb(161.6, 123.52, 66.06) 80.77%,
+      rgb(147.89, 98.35, 24.03) 85.7%
+    );
+    width: 1482px;
+    height: 1500px;
+  }
+  
+  .frame .overlap {
+    position: relative;
+    height: 1584px;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 930px;
+    top: 194px;
+    left: 316px;
+    text-shadow: 0px 4px 4px #00000040;
+    -webkit-text-stroke: 0.5px #562f10;
+    font-family: "Marck Script-Regular", Helvetica;
+    font-weight: 400;
+    color: #562f10;
+    font-size: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle {
+    width: 1482px;
+    top: 82px;
+    left: 0;
+    position: absolute;
+    height: 50px;
+    background: linear-gradient(
+      180deg,
+      rgb(10.82, 6.72, 6.72) 0%,
+      rgba(161.7, 47.84, 47.84, 0.47) 50%,
+      rgb(0, 0, 0) 100%
+    );
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 1206px;
+    height: 1584px;
+    top: 0;
+    left: 87px;
+  }
+  
+  .frame .div {
+    width: 1584px;
+    top: 767px;
+    left: -767px;
+    transform: rotate(-90deg);
+    position: absolute;
+    height: 50px;
+    background: linear-gradient(
+      180deg,
+      rgb(10.82, 6.72, 6.72) 0%,
+      rgba(161.7, 47.84, 47.84, 0.47) 50%,
+      rgb(0, 0, 0) 100%
+    );
+  }
+  
+  .frame .durga-puja {
+    position: absolute;
+    width: 1017px;
+    top: 750px;
+    left: 189px;
+    font-family: "Marko One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-wrapper {
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    top: 390px;
+    left: 451px;
+    border-radius: 102.5px;
+    box-shadow: 0px 6px 4px 2px #00000040;
+    background: radial-gradient(
+      50% 50% at 50% 50%,
+      rgb(199.95, 184.39, 166.12) 0%,
+      rgba(210.57, 139.68, 33.34, 0.63) 100%
+    );
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    top: 69px;
+    left: 46px;
+    font-family: "Marck Script-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    top: 390px;
+    left: 852px;
+    border-radius: 102.5px;
+    box-shadow: 0px 6px 4px 2px #00000040;
+    background: radial-gradient(
+      50% 50% at 50% 50%,
+      rgb(199.95, 184.39, 166.12) 0%,
+      rgba(210.57, 139.68, 33.34, 0.63) 100%
+    );
+  }
+  
+  .frame .p {
+    position: absolute;
+    top: 676px;
+    left: 276px;
+    font-family: "Marko One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
