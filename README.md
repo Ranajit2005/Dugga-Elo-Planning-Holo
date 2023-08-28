@@ -1,4 +1,4 @@
-![Screenshot (2036)](https://github.com/Ranajit2005/Dugga-Elo-Planning-Holo/assets/130493069/c3e66779-5cab-421d-a5c8-d1620390f9d2)# Dugga-Elo-Planning-Holo
+# Dugga-Elo-Planning-Holo
 Nomoskar! You must have plans to visit the famous pujas of Kolkata and spend a memorable time. Along with all the excitement for the pujas you must have started planning for those few days. So many good themes are getting advertised and are being made, its hard to miss out on any of them but alas the choices are so many that it becomes hard to cover the maximum ground without proper planning beforehand and when you finally get down to it, you often find yourselves lost and in a mess.
 
 Our project aims to help you keep your trip and day organized and hassle free by providing you with a roadmap of all the pandals near you and a brief overview on that puja and let you decide whether you want to visit there or not beforehand.
@@ -15,9 +15,10 @@ Inspiration-----
 	Integrating elements such as traditional crafts, community narratives, and artistic expression, the route becomes a storytelling canvas that guides attendees through different phases of the the goddess' journey.
 	With nods and to natural beauty, interactive experiences, and unity in diversity, the route mirrors a spiritual pilgrimage, culminating in a celebration that resonates on both a personal and collective level, forging lasting memories
 	and a profound connection to Durga Puja.
+
+![Screenshot (2035)](https://github.com/Ranajit2005/Dugga-Elo-Planning-Holo/assets/130493069/a0dd360f-7c87-483c-87c5-66ebce8ef3a0)
+
 	
- 
-	![Screenshot (2035)](https://github.com/Ranajit2005/Dugga-Elo-Planning-Holo/assets/130493069/a0dd360f-7c87-483c-87c5-66ebce8ef3a0)
 
 What problem does the project solve?????
 	- Our project serves mainly as an route planner. We communicate with the durga puja committee members and help them to advertise themselves.
@@ -25,9 +26,8 @@ What problem does the project solve?????
 	- Durga puja pandal is known for its captavating and intricate decorations. We help our users to view all the decorations and lightings of the current year as well as 
 	  the previous years.
 	- Our Durga Puja needs a pocket friendly budget and we bring to you an absolutly free website for planning your puja at of no cost. 
-	
-	 
-	![Screenshot (2036)](https://github.com/Ranajit2005/Dugga-Elo-Planning-Holo/assets/130493069/b8dfa313-e354-44cb-a169-9da14651bfe8)
+
+  ![Screenshot (2036)](https://github.com/Ranajit2005/Dugga-Elo-Planning-Holo/assets/130493069/c3e66779-5cab-421d-a5c8-d1620390f9d2)
 
 🙌Overview
   - In the landing page, you can choose whether you are a pandal hopper or a Durga Puja committee representative
