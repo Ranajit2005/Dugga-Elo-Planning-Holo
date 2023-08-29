@@ -36,10 +36,12 @@ What problem does the project solve?????
   - Then you will be able to choose which pandals you want to visit and we will show you the routemap accordingly.
   - If you are a committee representative, you get to register the details of your puja committee and your theme which you can update as required.
 
+Upcoming updates :
+	We plan on making a responsive map where you will be able to choose which pandal you want to visit and simply follow the real time route shown to reach there.
 
 TEAM NAME: UNICODERS
 CONTRIBUTORS:
 Sanjana Banerjee [Team Lead]
-Sagnic Ghosh
 Ranajit Dey
+Sagnic Ghosh
 Samadrita Pan
